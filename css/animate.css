@@ -107,6 +107,55 @@ Copyright (c) 2015 Daniel Eden
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
   }
+  
+  .animated-fast {
+  -webkit-animation-duration: .2s;
+  animation-duration: .2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.ftco-animated {
+  -webkit-animation-duration: .5s;
+  animation-duration: .5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+  .animated-fast {
+  -webkit-animation-duration: .2s;
+  animation-duration: .2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.ftco-animated {
+  -webkit-animation-duration: .5s;
+  animation-duration: .5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+  .animated-fast {
+  -webkit-animation-duration: .2s;
+  animation-duration: .2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.ftco-animated {
+  -webkit-animation-duration: .5s;
+  animation-duration: .5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+  .animated-fast {
+  -webkit-animation-duration: .2s;
+  animation-duration: .2s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.ftco-animated {
+  -webkit-animation-duration: .5s;
+  animation-duration: .5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
 
   40%, 43% {
     -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);
